@@ -6319,7 +6319,7 @@
       }
     },
     {
-      "id": "landuse_areas_labels_industrial-copy",
+      "id": "landuse_areas_labels_industrial",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "landuse_points_centroids",
@@ -6361,7 +6361,7 @@
       }
     },
     {
-      "id": "landuse_areas_labels_residential-copy",
+      "id": "landuse_areas_labels_residential",
       "type": "symbol",
       "source": "ohm",
       "source-layer": "landuse_points_centroids",
